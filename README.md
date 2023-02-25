@@ -21,4 +21,11 @@ The Buffer Module - In Node.js, the Buffer module is used to handle binary data.
 The fs Module - The filesystem controls how data on a computer is stored and retrieved. 
 Node.js provides the fs core module, which allows interaction with the filesystem.
 
+Readable/Writable Streams - 
+In most cases, data isn’t processed all at once but rather piece by piece. 
+This is what we call streams. Streaming data is preferred as it doesn’t require 
+tons of RAM and doesn’t need to have all the data on hand to begin processing it.
+
+
+
 
