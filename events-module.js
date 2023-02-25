@@ -13,3 +13,8 @@ myEmitter.on('celebration', listenerCallback);
 
 // Here we emit an event, we pass the event type, 'celebration', as the first argument, and the event data as the second
 myEmitter.emit('celebration', 'good times, come on!');
+
+/**
+ * node events-module.js
+ * 
+ * */

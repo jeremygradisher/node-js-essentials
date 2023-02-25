@@ -18,3 +18,7 @@ provided callback functions should have an error passed as the first parameter.
 
 The Buffer Module - In Node.js, the Buffer module is used to handle binary data.
 
+The fs Module - The filesystem controls how data on a computer is stored and retrieved. 
+Node.js provides the fs core module, which allows interaction with the filesystem.
+
+
